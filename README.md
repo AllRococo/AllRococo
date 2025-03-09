@@ -4,7 +4,7 @@
   
   > ### _Everything should be beautiful, even if it blurs due to a mistake._
 
-**:ribbon:I'm Rococo!** I'm the frontend developer, the Forever Trainee :upside_down_face:
+**:ribbon:I'm Rococo!** I'm the frontend developer, Forever a Trainee :upside_down_face:
 
 
 I also have experience with translation and design. I love **elegant aesthetics**, creative coding, and exploring new technologies!
